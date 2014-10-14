@@ -1,4 +1,15 @@
 #!/bin/bash
+# ---------------------------------------------------------------------------
+# 
+# Karotz Auto Update script WIFI configuration
+# 
+# Author: Rodolphe Franceschi <rodolphe.franceschi@gmail.com>
+# 
+# Under MIT License 
+# @ see http://opensource.org/licenses/MIT
+#
+# ---------------------------------------------------------------------------
+
 export HOME=/tmp
 export GNUPGHOME=/tmp/
 
