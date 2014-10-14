@@ -10,9 +10,10 @@ This is a just an auto installer that changes the configuration of your wifi con
 
 Advanced settings configuration is to configure in `network.conf` file. You **MUST** edit this file before launching the installer.
 
-## How to ue ?
+## How to use ?
 
-Copy the files in image/ directory in the root of a USB key formatted in FAT32, and restart your karotz.
+1. Edit the *network.conf* file in image/ directory
+1. Copy the files in image/ directory in the root of a USB key formatted in FAT32, and restart your karotz.
 
 ## Resources
 
